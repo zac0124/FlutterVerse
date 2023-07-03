@@ -1,4 +1,4 @@
-# flutter_weekly_widget
+# flutter_widget_of_the_week
 
 A new Flutter project.
 
