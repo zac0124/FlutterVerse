@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
       ],
       dependencies: [],
       child: MaterialApp(
-          title: 'Flutter Demo',
+          title: 'Bloc pattern exploration',
           theme: ThemeData(
             primarySwatch: Colors.blue,
           ),
