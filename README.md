@@ -1,2 +1,2 @@
 # FlutterVerse
-Monorepo for Flutter Journey
+Monorepo for Flutter Journey.
